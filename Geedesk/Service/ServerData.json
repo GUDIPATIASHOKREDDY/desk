@@ -1,0 +1,104 @@
+{
+    "data": {
+        "id": 1,
+        "home":[{
+            "dashboard": "Dashboard",
+            
+        },
+        {
+            "dashboard": "All Tickets",
+            
+        },
+        {
+            "dashboard": "My Tickets",
+            
+        },
+        {
+            "dashboard": "Timeline",
+            
+        },
+        {
+            "dashboard": "My Team Tickets",
+            
+        }],
+        
+       
+        "fullName": "Tom Sawyer",
+        "pictureUrl": "tom",
+        "email": "tomSawyer@gmail.com",
+        
+        "reports":[{
+            "reportstype": "Basic Report",
+            
+        },
+        {
+            "reportstype": "Intelligent Insights",
+            
+        },
+        {
+            "reportstype": "Usage metrics",
+            
+        },
+        {
+            "reportstype": "Subscriptions",
+            
+        }
+        
+        
+        ],
+        
+        "tickets":[{
+            "tickettype": "All New Tickets",
+            
+        },
+        {
+            "tickettype": "All Open Tickets",
+            
+        },
+        {
+            "tickettype": "Escalated Tickets",
+            
+        },{
+            "tickettype": "On hold Tickets",
+        },
+        {
+            "tickettype": "Resolved Tickets",
+        },
+        {
+            "tickettype": "Deleted Tickets",
+        },
+        {
+            "tickettype": "Sceduled Tickets",
+        },
+        {
+            "tickettype": "VIP Alerts",
+        }],
+        "about": "I like travelling along Missisipi!",
+        "friends": [
+                    {
+                    "name": "Attendance",
+                    "pictureUrl": "finn"
+                    },
+                    {
+                    "name": "Terms and Conditions",
+                    "pictureUrl": "becky"
+                    },
+                    {
+                    "name": "Privacy Policy",
+                    "pictureUrl": "holm"
+                    },
+                    {
+                        "name": "Logout",
+                        "pictureUrl": "holm"
+                    }
+                    ],
+        "profileAttributes": [
+                              {
+                              "key": "Glitches",
+                              "value": "November 30, 1835"
+                              }
+                              ]
+    },
+    "error": 0,
+    "message": "Success"
+}

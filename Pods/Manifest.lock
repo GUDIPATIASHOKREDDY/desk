@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - Intercom (5.2)
+  - IQKeyboardManagerSwift (6.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Charts
+  - Intercom
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Charts
+    - Intercom
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
+  Intercom: fd0c7377d49cc2f1a94e7fc0bcc9ccfcdab0a7dc
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+
+PODFILE CHECKSUM: 8b1e679e6505fa193d1e18d1c71cffa3ecc5b14e
+
+COCOAPODS: 1.5.3
